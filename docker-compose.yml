@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  rust:
+    build: ./infra/rust
+    image: rust-tutorial
+    volumes:
+      - ./src:/usr/src
+    tty: true
