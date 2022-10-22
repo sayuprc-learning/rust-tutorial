@@ -7,7 +7,8 @@
   "service": "rust",
   "settings": {
     "[rust]": {
-      "editor.formatOnSave": true
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
     }
   },
   "extensions": [
