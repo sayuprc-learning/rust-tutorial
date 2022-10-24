@@ -19,3 +19,7 @@ path = "src/guessing_game.rs"
 [[bin]]
 name = "variables"
 path = "src/variables.rs"
+
+[[bin]]
+name = "data_types"
+path = "src/data_types.rs"
