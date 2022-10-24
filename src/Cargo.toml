@@ -23,3 +23,7 @@ path = "src/variables.rs"
 [[bin]]
 name = "data_types"
 path = "src/data_types.rs"
+
+[[bin]]
+name = "functions"
+path = "src/functions.rs"
