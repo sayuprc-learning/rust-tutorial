@@ -15,3 +15,7 @@ path = "src/hello_world.rs"
 [[bin]]
 name = "guessing_game"
 path = "src/guessing_game.rs"
+
+[[bin]]
+name = "variables"
+path = "src/variables.rs"
