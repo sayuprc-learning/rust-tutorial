@@ -31,3 +31,7 @@ path = "src/functions.rs"
 [[bin]]
 name = "comments"
 path = "src/comments.rs"
+
+[[bin]]
+name = "control_flow"
+path = "src/control_flow.rs"
