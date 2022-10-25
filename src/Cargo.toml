@@ -27,3 +27,7 @@ path = "src/data_types.rs"
 [[bin]]
 name = "functions"
 path = "src/functions.rs"
+
+[[bin]]
+name = "comments"
+path = "src/comments.rs"
